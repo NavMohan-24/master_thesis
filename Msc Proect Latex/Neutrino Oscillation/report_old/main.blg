@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: unsrt.bst
+Database file #1: ref.bib
+Warning--empty journal in lipkin
+Warning--empty publisher in giunti2007
+Warning--empty school in Iwamoto
+You've used 63 entries,
+            1791 wiz_defined-function locations,
+            834 strings with 12246 characters,
+and the built_in function-call counts, 14229 in all, are:
+= -- 1286
+> -- 582
+< -- 0
++ -- 222
+- -- 159
+* -- 1127
+:= -- 2320
+add.period$ -- 193
+call.type$ -- 63
+change.case$ -- 61
+chr.to.int$ -- 0
+cite$ -- 66
+duplicate$ -- 563
+empty$ -- 1392
+format.name$ -- 159
+if$ -- 3049
+int.to.chr$ -- 0
+int.to.str$ -- 63
+missing$ -- 65
+newline$ -- 322
+num.names$ -- 63
+pop$ -- 91
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 196
+stack$ -- 0
+substring$ -- 1217
+swap$ -- 61
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 147
+width$ -- 65
+write$ -- 693
+(There were 3 warnings)

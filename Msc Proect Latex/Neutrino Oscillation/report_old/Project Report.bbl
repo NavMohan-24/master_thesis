@@ -1,0 +1,199 @@
+\begin{thebibliography}{10}
+
+\bibitem{feynman82}
+Richard~P. Feynman.
+\newblock Simulating physics with computers.
+\newblock {\em International Journal of Theoretical Physics}, 21(6-7):467--488,
+  June 1982.
+
+\bibitem{nielsen}
+Michael~A. Nielsen and Isaac~L. Chuang.
+\newblock {\em Quantum Computation and Quantum Information: 10th Anniversary
+  Edition}.
+\newblock Cambridge University Press, 2010.
+
+\bibitem{monte}
+Masuo Suzuki.
+\newblock Quantum monte carlo methods and general decomposition theory of
+  exponential operators and symplectic integrators.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  205(1):65--79, 1994.
+
+\bibitem{troyer}
+Matthias Troyer and Uwe-Jens Wiese.
+\newblock Computational complexity and fundamental limitations to fermionic
+  quantum monte carlo simulations.
+\newblock {\em Phys. Rev. Lett.}, 94:170201, May 2005.
+
+\bibitem{georgescu}
+I.~M. Georgescu, S.~Ashhab, and Franco Nori.
+\newblock Quantum simulation.
+\newblock {\em Rev. Mod. Phys.}, 86:153--185, Mar 2014.
+
+\bibitem{dft}
+Nathan Argaman and Guy Makov.
+\newblock Density functional theory: An introduction.
+\newblock {\em American Journal of Physics}, 68(1):69--79, 2000.
+
+\bibitem{mbpt}
+R~J Bartlett.
+\newblock Many-body perturbation theory and coupled cluster theory for electron
+  correlation in molecules.
+\newblock {\em Annual Review of Physical Chemistry}, 32(1):359--401, 1981.
+
+\bibitem{lloyd}
+S.~Lloyd.
+\newblock Universal {Quantum} {Simulators}.
+\newblock {\em Science}, 273(5278):1073--1078, August 1996.
+
+\bibitem{jones}
+C.~A. Arg\"uelles and B.~J.~P. Jones.
+\newblock Neutrino oscillations in a quantum processor.
+\newblock {\em Phys. Rev. Research}, 1:033176, Dec 2019.
+
+\bibitem{ray}
+Raymond Davis, Don~S. Harmer, and Kenneth~C. Hoffman.
+\newblock Search for neutrinos from the sun.
+\newblock {\em Phys. Rev. Lett.}, 20:1205--1209, May 1968.
+
+\bibitem{ponte57}
+B.~Pontecorvo.
+\newblock {Mesonium and anti-mesonium}.
+\newblock {\em Sov. Phys. JETP}, 6:429, 1957.
+
+\bibitem{maki}
+Ziro Maki, Masami Nakagawa, and Shoichi Sakata.
+\newblock {Remarks on the unified model of elementary particles}.
+\newblock {\em Prog. Theor. Phys.}, 28:870--880, 1962.
+
+\bibitem{ponte68}
+B.~Pontecorvo.
+\newblock {Neutrino Experiments and the Problem of Conservation of Leptonic
+  Charge}.
+\newblock {\em Zh. Eksp. Teor. Fiz.}, 53:1717--1725, 1967.
+
+\bibitem{mcdonald}
+Arthur~B. McDonald, Joshua~R. Klein, and David~L. Wark.
+\newblock Solving the {Solar} {Neutrino} {Problem}.
+\newblock {\em Scientific American}, 288(4):40--49, April 2003.
+
+\bibitem{rozema}
+Lee~A. Rozema, Dylan~H. Mahler, Alex Hayat, Peter~S. Turner, and Aephraim~M.
+  Steinberg.
+\newblock Quantum data compression of a qubit ensemble.
+\newblock {\em Phys. Rev. Lett.}, 113:160504, Oct 2014.
+
+\bibitem{brown}
+Katherine~L. Brown, William~J. Munro, and Vivien~M. Kendon.
+\newblock Using quantum computers for quantum simulation.
+\newblock {\em Entropy}, 12(11):2268--2307, 2010.
+
+\bibitem{clark}
+Craig~R. Clark, Tzvetan~S. Metodi, Samuel~D. Gasster, and Kenneth~R. Brown.
+\newblock Resource requirements for fault-tolerant quantum simulation: The
+  ground state of the transverse ising model.
+\newblock {\em Phys. Rev. A}, 79:062314, Jun 2009.
+
+\bibitem{somaroo}
+T.~F. Havel, S.~S. Somaroo, C.-H. Tseng, and D.~G. Cory.
+\newblock Principles and {Demonstrations} of {Quantum} {Information}
+  {Processing} by {NMR} {Spectroscopy}.
+\newblock {\em Applicable Algebra in Engineering, Communication and Computing},
+  10(4-5):339--374, May 2000.
+
+\bibitem{Aartsen}
+M.G Aartsen et~al.
+\newblock Search for nonstandard neutrino interactions with icecube deepcore.
+\newblock {\em Phys. Rev. D}, 97:072009, Apr 2018.
+
+\bibitem{zyla}
+P.A. Zyla et~al.
+\newblock {Review of Particle Physics}.
+\newblock {\em PTEP}, 2020(8):083C01, 2020.
+
+\bibitem{kayser}
+Boris Kayser.
+\newblock Neutrino {Physics}.
+\newblock {\em arXiv:hep-ph/0506165}, June 2005.
+\newblock arXiv: hep-ph/0506165.
+
+\bibitem{Blasome}
+M.~Blasone, F.~Dell{\textquotesingle}Anno, S.~De Siena, and F.~Illuminati.
+\newblock Entanglement in neutrino oscillations.
+\newblock {\em {EPL} (Europhysics Letters)}, 85(5):50002, mar 2009.
+
+\bibitem{giunti2003}
+Carlo Giunti.
+\newblock Theory of {Neutrino} {Oscillations}.
+\newblock {\em arXiv:hep-ph/0311241}, February 2004.
+\newblock arXiv: hep-ph/0311241.
+
+\bibitem{stodolsky}
+L.~Stodolsky.
+\newblock When the wavepacket is unnecessary.
+\newblock {\em Phys. Rev. D}, 58:036006, Jul 1998.
+
+\bibitem{lipkin}
+Harry~J. Lipkin.
+\newblock {Stodolsky's theorem and neutrino oscillation phases for
+  pedestrians}.
+\newblock 12 2002.
+
+\bibitem{obkun}
+L.~B. Okun, M.~G. Schepkin, and I.~S. Tsukerman.
+\newblock {On the extra factor of two in the phase of neutrino oscillations}.
+\newblock {\em Nucl. Phys. B}, 650:443--446, 2003.
+\newblock [Erratum: Nucl.Phys.B 656, 255--255 (2003)].
+
+\bibitem{giunti1991}
+C.~Giunti, C.~W. Kim, and U.~W. Lee.
+\newblock When do neutrinos really oscillate? quantum mechanics of neutrino
+  oscillations.
+\newblock {\em Phys. Rev. D}, 44:3635--3640, Dec 1991.
+
+\bibitem{giunti1998}
+C.~Giunti and C.~W. Kim.
+\newblock Coherence of neutrino oscillations in the wave packet approach.
+\newblock {\em Phys. Rev. D}, 58:017301, Jun 1998.
+
+\bibitem{giunti2004}
+C.~Giunti.
+\newblock {Coherence and wave packets in neutrino oscillations}.
+\newblock {\em Found. Phys. Lett.}, 17:103--124, 2004.
+
+\bibitem{giunti2007}
+Carlo Giunti and Chung~W. Kim.
+\newblock {\em {Fundamentals of Neutrino Physics and Astrophysics}}.
+\newblock 2007.
+
+\bibitem{giunti2010}
+C.~Giunti.
+\newblock No effect of majorana phases in neutrino oscillations.
+\newblock {\em Physics Letters B}, 686(1):41--43, 2010.
+
+\bibitem{benenti}
+Giuliano Benenti, Giulio Casati, Davide Rossini, and Giuliano Strini.
+\newblock {\em Principles of {Quantum} {Computation} and {Information}: {A}
+  {Comprehensive} {Textbook}}.
+\newblock WORLD SCIENTIFIC, December 2018.
+
+\bibitem{estaban}
+Ivan Esteban, M.~C. Gonzalez-Garcia, Alvaro Hernandez-Cabezudo, Michele
+  Maltoni, and Thomas Schwetz.
+\newblock {Global analysis of three-flavour neutrino oscillations: synergies
+  and tensions in the determination of $\theta_{23}$, $\delta_{CP}$, and the
+  mass ordering}.
+\newblock {\em JHEP}, 01:106, 2019.
+
+\bibitem{Eugichi}
+K.~Eguchi et~al.
+\newblock First results from kamland: Evidence for reactor antineutrino
+  disappearance.
+\newblock {\em Phys. Rev. Lett.}, 90:021802, Jan 2003.
+
+\bibitem{Iwamoto}
+Toshiyuki Iwamoto.
+\newblock {Measurement of Reactor Anti-Neutrino Disappearance in KamLAND}.
+\newblock Other thesis, 2 2003.
+
+\end{thebibliography}

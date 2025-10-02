@@ -1,0 +1,21 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Scheme for analog simulation}}{16}{figure.1.1}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Circuit simulating two flavour oscillation\cite {jones}. This is a single qubit circuit utilising only unitary single-qubit gates. }}{41}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Gate arrangement for realizing PMNS matrix\cite {jones}}}{42}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Circuit for simulating three flavour oscillation\cite {jones}. Circuit can be repeatedly run to prepare qubits in the flavour state, time evolve them and measure them in the flavour basis.}}{44}{figure.4.3}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Disappearance probability in $e-\mu $ system as a function of energy (in QASM simulator). }}{48}{figure.5.1}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Disappearance probability in $e-\mu $ system as a function of energy (in Quantum computer)}}{49}{figure.5.2}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Linear entropy of $e-\mu $ system as a function of energy (in QASM simulator)}}{51}{figure.5.3}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Linear entropy of $e-\mu $ system as a function of energy (in quantum computer)}}{51}{figure.5.4}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Entanglement in the $e-\mu $ system (in QASM simulator).}}{52}{figure.5.5}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Entanglement in the $e-\mu $ system (in Quantum computer).}}{52}{figure.5.6}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Three flavour oscillation probability as function of time (in QASM simulator)}}{54}{figure.5.7}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Three flavour oscillation probability as function of time (in Quantum computer) }}{55}{figure.5.8}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Linear entropy of 3-flavour system as a function of energy (in QASM simulator)}}{56}{figure.5.9}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Linear entropy of 3-flavour system as a function of energy (in quantum computer)}}{56}{figure.5.10}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Global entanglement in the 3-flavour system (in QASM simulator).}}{57}{figure.5.11}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Global entanglement in the 3-flavour system (in Quantum computer).}}{58}{figure.5.12}%

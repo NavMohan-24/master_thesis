@@ -1,0 +1,34 @@
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Acknowledgements}{3}{chapter*.1}%
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Abstract}{4}{chapter*.2}%
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Introduction}{9}{chapter*.5}%
+\contentsline {chapter}{\numberline {1}Quantum Simulations: An Overview}{16}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Digital Quantum Simulations (DQS)}{18}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Analog Quantum Simulations (AQS)}{20}{section.1.2}%
+\contentsline {section}{\numberline {1.3} Quantum-Information-Inspired Algorithms for Classical Simulation of Quantum Systems }{22}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Neutrino Oscillation}{24}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Neutrino Flavour Oscillation in Vacuum}{25}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Theory of Flavour Oscillations}{26}{subsection.2.1.1}%
+\contentsline {chapter}{\numberline {3}Entanglement in Neutrino Oscillations}{33}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Single Particle Entanglement}{34}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Entanglement in Neutrinos}{35}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Entaglement Measurement}{36}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Pure and Mixed States}{36}{subsection.3.3.1}%
+\contentsline {subsubsection}{Schmidt Decomposition}{37}{section*.6}%
+\contentsline {subsubsection}{ Pure and Mixed Entangled State}{38}{section*.7}%
+\contentsline {section}{\numberline {3.4}Entanglement Entropy}{38}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Measurement of Entanglement in Neutrinos}{39}{section.3.5}%
+\contentsline {subsubsection}{Linear Entropy of Neutrino States}{40}{section*.8}%
+\contentsline {chapter}{\numberline {4}Neutrino Oscillation in a quantum processor}{43}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Simulation of Two Flavour Oscillation}{45}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Simulation of Three Flavour Neutrino Oscillation}{46}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Measuring Entanglement Using Simulation}{49}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Simulation Results}{52}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Two Flavour Oscillations: Simulation Results}{52}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Simulation Using QASM Simulator}{52}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Simulation Using IBM Quantum Computer}{54}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Entanglement Studies}{55}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}Three Flavour Oscillation: Simulation Results}{57}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Simulation Using QASM Simulator}{58}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Simulation Using IBM Quantum Computer}{58}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Entanglement Studies}{59}{subsection.5.2.3}%
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Conclusion and Overview}{64}{chapter*.9}%

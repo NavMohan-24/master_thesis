@@ -1,0 +1,32 @@
+\contentsline {chapter}{\numberline {1}Quantum Simulations: An Overview}{12}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Digital Quantum Simulations}{14}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Analog Quantum Simulations (AQS)}{15}{section.1.2}%
+\contentsline {section}{\numberline {1.3} Quantum-information-inspired algorithms for classical simulation of quantum systems }{17}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Neutrino Oscillation}{20}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Neutrino Flavour Oscillation in Vaccum}{21}{section.2.1}%
+\contentsline {subsubsection}{Theory of Flavour Oscillation}{22}{section*.4}%
+\contentsline {chapter}{\numberline {3}Entanglement in neutrino oscillations}{29}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Single Particle Entanglement}{30}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Entanglement in Neutrinos}{31}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Entaglement Measurement}{32}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Pure and Mixed States}{32}{subsection.3.3.1}%
+\contentsline {subsubsection}{Schmidt decomposition}{33}{section*.5}%
+\contentsline {subsubsection}{ Pure and Mixed entangled state}{34}{section*.6}%
+\contentsline {section}{\numberline {3.4}Entanglement Entropy}{34}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Measurement of Entanglement in Neutrinos}{35}{section.3.5}%
+\contentsline {subsubsection}{Linear entropy of neutrino}{36}{section*.7}%
+\contentsline {chapter}{\numberline {4}Neutrino Oscillation in a quantum processor}{38}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Simulation of two flavour oscillation}{39}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Simulating three flavour Neutrino Oscillation}{42}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Measuring Entanglement using Simulation}{44}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Simulation Results}{47}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Two flavour oscillations : Simulation Results}{47}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Simulating in QASM Simulator}{47}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Simulating in IBM Quantum Computer}{49}{subsection.5.1.2}%
+\contentsline {paragraph}{\textbf {IBM Armonk}}{49}{section*.8}%
+\contentsline {subsection}{\numberline {5.1.3}Entanglement Studies}{51}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}Three flavour oscillation: Simulation Results}{53}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Simulating in QASM Simulator}{54}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Simulating in Quantum computer}{54}{subsection.5.2.2}%
+\contentsline {paragraph}{\textbf {IBM Lima}}{54}{section*.9}%
+\contentsline {subsection}{\numberline {5.2.3}Entanglement Studies}{56}{subsection.5.2.3}%

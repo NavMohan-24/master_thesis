@@ -1,0 +1,26 @@
+\BOOKMARK [0][-]{chapter.1}{Quantum Simulations: An Overview}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Digital Quantum Simulations}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Analog Quantum Simulations \(AQS\)}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{ Quantum-information-inspired algorithms for classical simulation of quantum systems }{chapter.1}% 4
+\BOOKMARK [0][-]{chapter.2}{Neutrino Oscillation}{}% 5
+\BOOKMARK [1][-]{section.2.1}{Neutrino Flavour Oscillation in Vaccum}{chapter.2}% 6
+\BOOKMARK [0][-]{chapter.3}{Entanglement in neutrino oscillations}{}% 7
+\BOOKMARK [1][-]{section.3.1}{Single Particle Entanglement}{chapter.3}% 8
+\BOOKMARK [1][-]{section.3.2}{Entanglement in Neutrinos}{chapter.3}% 9
+\BOOKMARK [1][-]{section.3.3}{Entaglement Measurement}{chapter.3}% 10
+\BOOKMARK [2][-]{subsection.3.3.1}{Pure and Mixed States}{section.3.3}% 11
+\BOOKMARK [1][-]{section.3.4}{Entanglement Entropy}{chapter.3}% 12
+\BOOKMARK [1][-]{section.3.5}{Measurement of Entanglement in Neutrinos}{chapter.3}% 13
+\BOOKMARK [0][-]{chapter.4}{Neutrino Oscillation in a quantum processor}{}% 14
+\BOOKMARK [1][-]{section.4.1}{Simulation of two flavour oscillation}{chapter.4}% 15
+\BOOKMARK [1][-]{section.4.2}{Simulating three flavour Neutrino Oscillation}{chapter.4}% 16
+\BOOKMARK [1][-]{section.4.3}{Measuring Entanglement using Simulation}{chapter.4}% 17
+\BOOKMARK [0][-]{chapter.5}{Simulation Results}{}% 18
+\BOOKMARK [1][-]{section.5.1}{Two flavour oscillations : Simulation Results}{chapter.5}% 19
+\BOOKMARK [2][-]{subsection.5.1.1}{Simulating in QASM Simulator}{section.5.1}% 20
+\BOOKMARK [2][-]{subsection.5.1.2}{Simulating in IBM Quantum Computer}{section.5.1}% 21
+\BOOKMARK [2][-]{subsection.5.1.3}{Entanglement Studies}{section.5.1}% 22
+\BOOKMARK [1][-]{section.5.2}{Three flavour oscillation: Simulation Results}{chapter.5}% 23
+\BOOKMARK [2][-]{subsection.5.2.1}{Simulating in QASM Simulator}{section.5.2}% 24
+\BOOKMARK [2][-]{subsection.5.2.2}{Simulating in Quantum computer}{section.5.2}% 25
+\BOOKMARK [2][-]{subsection.5.2.3}{Entanglement Studies}{section.5.2}% 26

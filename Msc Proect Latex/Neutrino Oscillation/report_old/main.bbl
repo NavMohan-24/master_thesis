@@ -1,0 +1,355 @@
+\begin{thebibliography}{10}
+
+\bibitem{kayser}
+Boris Kayser.
+\newblock Neutrino {Physics}.
+\newblock {\em arXiv:hep-ph/0506165}, June 2005.
+\newblock arXiv: hep-ph/0506165.
+
+\bibitem{jones}
+C.~A. Arg\"uelles and B.~J.~P. Jones.
+\newblock Neutrino oscillations in a quantum processor.
+\newblock {\em Phys. Rev. Research}, 1:033176, Dec 2019.
+
+\bibitem{feynman82}
+Richard~P. Feynman.
+\newblock Simulating physics with computers.
+\newblock {\em International Journal of Theoretical Physics}, 21(6-7):467--488,
+  June 1982.
+
+\bibitem{nielsen}
+Michael~A. Nielsen and Isaac~L. Chuang.
+\newblock {\em Quantum Computation and Quantum Information: 10th Anniversary
+  Edition}.
+\newblock Cambridge University Press, 2010.
+
+\bibitem{monte}
+Masuo Suzuki.
+\newblock Quantum monte carlo methods and general decomposition theory of
+  exponential operators and symplectic integrators.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  205(1):65--79, 1994.
+
+\bibitem{troyer}
+Matthias Troyer and Uwe-Jens Wiese.
+\newblock Computational complexity and fundamental limitations to fermionic
+  quantum monte carlo simulations.
+\newblock {\em Phys. Rev. Lett.}, 94:170201, May 2005.
+
+\bibitem{georgescu}
+I.~M. Georgescu, S.~Ashhab, and Franco Nori.
+\newblock Quantum simulation.
+\newblock {\em Rev. Mod. Phys.}, 86:153--185, Mar 2014.
+
+\bibitem{dft}
+Nathan Argaman and Guy Makov.
+\newblock Density functional theory: An introduction.
+\newblock {\em American Journal of Physics}, 68(1):69--79, 2000.
+
+\bibitem{mbpt}
+R~J Bartlett.
+\newblock Many-body perturbation theory and coupled cluster theory for electron
+  correlation in molecules.
+\newblock {\em Annual Review of Physical Chemistry}, 32(1):359--401, 1981.
+
+\bibitem{lloyd}
+S.~Lloyd.
+\newblock Universal {Quantum} {Simulators}.
+\newblock {\em Science}, 273(5278):1073--1078, August 1996.
+
+\bibitem{ray}
+Raymond Davis, Don~S. Harmer, and Kenneth~C. Hoffman.
+\newblock Search for neutrinos from the sun.
+\newblock {\em Phys. Rev. Lett.}, 20:1205--1209, May 1968.
+
+\bibitem{ponte57}
+B.~Pontecorvo.
+\newblock {Mesonium and anti-mesonium}.
+\newblock {\em Sov. Phys. JETP}, 6:429, 1957.
+
+\bibitem{maki}
+Ziro Maki, Masami Nakagawa, and Shoichi Sakata.
+\newblock {Remarks on the unified model of elementary particles}.
+\newblock {\em Prog. Theor. Phys.}, 28:870--880, 1962.
+
+\bibitem{ponte68}
+B.~Pontecorvo.
+\newblock {Neutrino Experiments and the Problem of Conservation of Leptonic
+  Charge}.
+\newblock {\em Zh. Eksp. Teor. Fiz.}, 53:1717--1725, 1967.
+
+\bibitem{mcdonald}
+Arthur~B. McDonald, Joshua~R. Klein, and David~L. Wark.
+\newblock Solving the {Solar} {Neutrino} {Problem}.
+\newblock {\em Scientific American}, 288(4):40--49, April 2003.
+
+\bibitem{abrams}
+Daniel~S. Abrams and Seth Lloyd.
+\newblock Quantum {Algorithm} {Providing} {Exponential} {Speed} {Increase} for
+  {Finding} {Eigenvalues} and {Eigenvectors}.
+\newblock {\em Physical Review Letters}, 83(24):5162--5165, December 1999.
+
+\bibitem{aspuru}
+A.~Aspuru-Guzik.
+\newblock Simulated {Quantum} {Computation} of {Molecular} {Energies}.
+\newblock {\em Science}, 309(5741):1704--1707, September 2005.
+
+\bibitem{lidar}
+Daniel~A. Lidar and Ofer Biham.
+\newblock Simulating ising spin glasses on a quantum computer.
+\newblock {\em Phys. Rev. E}, 56:3661--3681, Sep 1997.
+
+\bibitem{meyer}
+David~A. Meyer.
+\newblock Quantum computing classical physics.
+\newblock {\em Philosophical Transactions of the Royal Society of London.
+  Series A: Mathematical, Physical and Engineering Sciences},
+  360(1792):395--405, March 2002.
+
+\bibitem{sinha}
+Siddhartha Sinha and Peter Russer.
+\newblock Quantum computing algorithm for electromagnetic field simulation.
+\newblock {\em Quantum Information Processing}, 9(3):385--404, June 2010.
+
+\bibitem{blasone2008}
+M.~Blasone, F.~Dell'Anno, S.~De~Siena, M.~Di~Mauro, and F.~Illuminati.
+\newblock Multipartite entangled states in particle mixing.
+\newblock {\em Phys. Rev. D}, 77:096002, May 2008.
+
+\bibitem{blasone2009}
+M.~Blasone, F.~Dell{\textquotesingle}Anno, S.~De Siena, and F.~Illuminati.
+\newblock Entanglement in neutrino oscillations.
+\newblock {\em {EPL} (Europhysics Letters)}, 85(5):50002, mar 2009.
+
+\bibitem{blasone2010}
+Massimo Blasone, Fabio Dell'Anno, Silvio De~Siena, and Fabrizio Illuminati.
+\newblock {On entanglement in neutrino mixing and oscillations}.
+\newblock {\em J. Phys. Conf. Ser.}, 237:012007, 2010.
+
+\bibitem{blasone2014}
+Massimo Blasone, Fabio Dell{\textquotesingle}Anno, Silvio~De Siena, and
+  Fabrizio Illuminati.
+\newblock A field-theoretical approach to entanglement in neutrino mixing and
+  oscillations.
+\newblock {\em {EPL} (Europhysics Letters)}, 106(3):30002, may 2014.
+
+\bibitem{vanenk2003}
+S.~J. van Enk.
+\newblock Entanglement of electromagnetic fields.
+\newblock {\em Phys. Rev. A}, 67:022303, Feb 2003.
+
+\bibitem{vanenk2005}
+S.~J. van Enk.
+\newblock Single-particle entanglement.
+\newblock {\em Phys. Rev. A}, 72:064306, Dec 2005.
+
+\bibitem{vanenk2006}
+S.~J. van Enk.
+\newblock Reply to ``comment on `single-particle entanglement' ''.
+\newblock {\em Phys. Rev. A}, 74:026302, Aug 2006.
+
+\bibitem{rozema}
+Lee~A. Rozema, Dylan~H. Mahler, Alex Hayat, Peter~S. Turner, and Aephraim~M.
+  Steinberg.
+\newblock Quantum data compression of a qubit ensemble.
+\newblock {\em Phys. Rev. Lett.}, 113:160504, Oct 2014.
+
+\bibitem{brown}
+Katherine~L. Brown, William~J. Munro, and Vivien~M. Kendon.
+\newblock Using quantum computers for quantum simulation.
+\newblock {\em Entropy}, 12(11):2268--2307, 2010.
+
+\bibitem{clark}
+Craig~R. Clark, Tzvetan~S. Metodi, Samuel~D. Gasster, and Kenneth~R. Brown.
+\newblock Resource requirements for fault-tolerant quantum simulation: The
+  ground state of the transverse ising model.
+\newblock {\em Phys. Rev. A}, 79:062314, Jun 2009.
+
+\bibitem{somaroo}
+T.~F. Havel, S.~S. Somaroo, C.-H. Tseng, and D.~G. Cory.
+\newblock Principles and {Demonstrations} of {Quantum} {Information}
+  {Processing} by {NMR} {Spectroscopy}.
+\newblock {\em Applicable Algebra in Engineering, Communication and Computing},
+  10(4-5):339--374, May 2000.
+
+\bibitem{cirac}
+F.~Verstraete, D.~Porras, and J.~I. Cirac.
+\newblock Density matrix renormalization group and periodic boundary
+  conditions: A quantum information perspective.
+\newblock {\em Phys. Rev. Lett.}, 93:227205, Nov 2004.
+
+\bibitem{temme2011}
+K.~Temme, T.~J. Osborne, K.~G. Vollbrecht, D.~Poulin, and F.~Verstraete.
+\newblock Quantum {Metropolis} sampling.
+\newblock {\em Nature}, 471(7336):87--90, March 2011.
+
+\bibitem{Aartsen}
+M.G Aartsen et~al.
+\newblock Search for nonstandard neutrino interactions with icecube deepcore.
+\newblock {\em Phys. Rev. D}, 97:072009, Apr 2018.
+
+\bibitem{zyla}
+P.A. Zyla et~al.
+\newblock {Review of Particle Physics}.
+\newblock {\em PTEP}, 2020(8):083C01, 2020.
+
+\bibitem{giunti2003}
+Carlo Giunti.
+\newblock Theory of {Neutrino} {Oscillations}.
+\newblock {\em arXiv:hep-ph/0311241}, February 2004.
+\newblock arXiv: hep-ph/0311241.
+
+\bibitem{stodolsky}
+L.~Stodolsky.
+\newblock When the wavepacket is unnecessary.
+\newblock {\em Phys. Rev. D}, 58:036006, Jul 1998.
+
+\bibitem{lipkin}
+Harry~J. Lipkin.
+\newblock {Stodolsky's theorem and neutrino oscillation phases for
+  pedestrians}.
+\newblock 12 2002.
+
+\bibitem{obkun}
+L.~B. Okun, M.~G. Schepkin, and I.~S. Tsukerman.
+\newblock {On the extra factor of two in the phase of neutrino oscillations}.
+\newblock {\em Nucl. Phys. B}, 650:443--446, 2003.
+\newblock [Erratum: Nucl.Phys.B 656, 255--255 (2003)].
+
+\bibitem{giunti1991}
+C.~Giunti, C.~W. Kim, and U.~W. Lee.
+\newblock When do neutrinos really oscillate? quantum mechanics of neutrino
+  oscillations.
+\newblock {\em Phys. Rev. D}, 44:3635--3640, Dec 1991.
+
+\bibitem{giunti1998}
+C.~Giunti and C.~W. Kim.
+\newblock Coherence of neutrino oscillations in the wave packet approach.
+\newblock {\em Phys. Rev. D}, 58:017301, Jun 1998.
+
+\bibitem{giunti2004}
+C.~Giunti.
+\newblock {Coherence and wave packets in neutrino oscillations}.
+\newblock {\em Found. Phys. Lett.}, 17:103--124, 2004.
+
+\bibitem{Benenti}
+Giuliano Benenti, Giulio Casati, Davide Rossini, and Giuliano Strini.
+\newblock {\em Principles of {Quantum} {Computation} and {Information}: {A}
+  {Comprehensive} {Textbook}}.
+\newblock WORLD SCIENTIFIC, December 2018.
+
+\bibitem{epr}
+A.~Einstein, B.~Podolsky, and N.~Rosen.
+\newblock Can quantum-mechanical description of physical reality be considered
+  complete?
+\newblock {\em Phys. Rev.}, 47:777--780, May 1935.
+
+\bibitem{bell}
+J.~S. Bell.
+\newblock On the einstein podolsky rosen paradox.
+\newblock {\em Physics Physique Fizika}, 1:195--200, Nov 1964.
+
+\bibitem{aspect82a}
+Alain Aspect, Philippe Grangier, and G\'erard Roger.
+\newblock Experimental realization of einstein-podolsky-rosen-bohm
+  gedankenexperiment: A new violation of bell's inequalities.
+\newblock {\em Phys. Rev. Lett.}, 49:91--94, Jul 1982.
+
+\bibitem{aspect82b}
+Alain Aspect, Jean Dalibard, and G\'erard Roger.
+\newblock Experimental test of bell's inequalities using time-varying
+  analyzers.
+\newblock {\em Phys. Rev. Lett.}, 49:1804--1807, Dec 1982.
+
+\bibitem{bennet96}
+Charles~H. Bennett, Herbert~J. Bernstein, Sandu Popescu, and Benjamin
+  Schumacher.
+\newblock Concentrating partial entanglement by local operations.
+\newblock {\em Phys. Rev. A}, 53:2046--2052, Apr 1996.
+
+\bibitem{bennet96b}
+Charles~H. Bennett, Gilles Brassard, Sandu Popescu, Benjamin Schumacher,
+  John~A. Smolin, and William~K. Wootters.
+\newblock Purification of noisy entanglement and faithful teleportation via
+  noisy channels.
+\newblock {\em Phys. Rev. Lett.}, 76:722--725, Jan 1996.
+
+\bibitem{popsecu97}
+Sandu Popescu and Daniel Rohrlich.
+\newblock Thermodynamics and the measure of entanglement.
+\newblock {\em Phys. Rev. A}, 56:R3319--R3321, Nov 1997.
+
+\bibitem{lee}
+Jae-Weon Lee, Eok~Kyun Lee, Yong~Wook Chung, Hai-Woong Lee, and Jaewan Kim.
+\newblock Quantum cryptography using single-particle entanglement.
+\newblock {\em Physical Review A}, 68(1):012324, July 2003.
+
+\bibitem{lombardi}
+Egilberto Lombardi, Fabio Sciarrino, Sandu Popescu, and Francesco De~Martini.
+\newblock Teleportation of a vacuum--one-photon qubit.
+\newblock {\em Phys. Rev. Lett.}, 88:070402, Jan 2002.
+
+\bibitem{hessmo}
+Björn Hessmo, Pavel Usachev, Hoshang Heydari, and Gunnar Björk.
+\newblock Experimental {Demonstration} of {Single} {Photon} {Nonlocality}.
+\newblock {\em Physical Review Letters}, 92(18):180401, May 2004.
+
+\bibitem{wootters}
+William~K. Wootters.
+\newblock Entanglement of formation and concurrence.
+\newblock {\em Quantum Information and Computation}, 1(1):27--44, July 2001.
+
+\bibitem{bennet96c}
+Charles~H. Bennett, David~P. DiVincenzo, John~A. Smolin, and William~K.
+  Wootters.
+\newblock {Mixed state entanglement and quantum error correction}.
+\newblock {\em Phys. Rev. A}, 54:3824--3851, 1996.
+
+\bibitem{horodecki}
+Ryszard Horodecki, Pawe\l{} Horodecki, Micha\l{} Horodecki, and Karol
+  Horodecki.
+\newblock Quantum entanglement.
+\newblock {\em Rev. Mod. Phys.}, 81:865--942, Jun 2009.
+
+\bibitem{amico}
+Luigi Amico, Rosario Fazio, Andreas Osterloh, and Vlatko Vedral.
+\newblock Entanglement in many-body systems.
+\newblock {\em Rev. Mod. Phys.}, 80:517--576, May 2008.
+
+\bibitem{brennen}
+Gavin~K. Brennen.
+\newblock An observable measure of entanglement for pure states of multi-qubit
+  systems.
+\newblock {\em arXiv:quant-ph/0305094}, November 2003.
+\newblock arXiv: quant-ph/0305094.
+
+\bibitem{giunti2007}
+Carlo Giunti and Chung~W. Kim.
+\newblock {\em {Fundamentals of Neutrino Physics and Astrophysics}}.
+\newblock 2007.
+
+\bibitem{giunti2010}
+C.~Giunti.
+\newblock No effect of majorana phases in neutrino oscillations.
+\newblock {\em Physics Letters B}, 686(1):41--43, 2010.
+
+\bibitem{estaban}
+Ivan Esteban, M.~C. Gonzalez-Garcia, Alvaro Hernandez-Cabezudo, Michele
+  Maltoni, and Thomas Schwetz.
+\newblock {Global analysis of three-flavour neutrino oscillations: synergies
+  and tensions in the determination of $\theta_{23}$, $\delta_{CP}$, and the
+  mass ordering}.
+\newblock {\em JHEP}, 01:106, 2019.
+
+\bibitem{Eugichi}
+K.~Eguchi et~al.
+\newblock First results from kamland: Evidence for reactor antineutrino
+  disappearance.
+\newblock {\em Phys. Rev. Lett.}, 90:021802, Jan 2003.
+
+\bibitem{Iwamoto}
+Toshiyuki Iwamoto.
+\newblock {Measurement of Reactor Anti-Neutrino Disappearance in KamLAND}.
+\newblock Other thesis, 2 2003.
+
+\end{thebibliography}
